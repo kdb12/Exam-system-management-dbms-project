@@ -2,7 +2,7 @@
 
 Online exam system mini project<br/>
 Mini Project Output Screenshots<br/>
-<img src="Images/Screenshot (307).png" alt="Output Screenshot" width="500" >
+<img src="Images/Screenshot (307).png" alt="Output Screenshot" align="center" width="500" >
 <img src="Images/Screenshot (308).png" alt="Output Screenshot" width="500" >
 <img src="Images/Screenshot (309).png" alt="Output Screenshot" width="500" >
 <img src="Images/Screenshot (310).png" alt="Output Screenshot" width="500" >
