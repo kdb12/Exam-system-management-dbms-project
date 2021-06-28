@@ -4,7 +4,7 @@ Online exam system mini project<br/>
 Mini Project Output Screenshots<br/>
 
 
-<div align="center" margin="10px">
+<div align="center" margin_top="10px">
 <img src="Images/Screenshot (307).png" alt="Output Screenshot" width="500" >   </div>
   <div align="center">
 <img src="Images/Screenshot (308).png" alt="Output Screenshot" width="500" >   </div>
